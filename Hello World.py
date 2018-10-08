@@ -19,4 +19,4 @@ else:
 
 print("request")
 print("develop")
-print("competiton")
+print("compe")
